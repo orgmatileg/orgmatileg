@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luqmanul Hakim</h1>
-<h3 align="center">An Engineering Manager that Focus on Backend Engineer with DevOps and Product Mindset</h3>
+<h3 align="center">An Engineering Manager that Focus on Backend Engineering with DevOps and Product Mindset</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orgmatileg&label=Profile%20views&color=0e75b6&style=flat" alt="orgmatileg" /> </p>
 
